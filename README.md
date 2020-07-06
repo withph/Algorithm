@@ -1,2 +1,2 @@
-# Sword
-剑指offer第二版
+# Algorithm
+算法题解
